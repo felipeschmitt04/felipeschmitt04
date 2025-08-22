@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Felipe Luan Schmitt!
 
 ### 👨‍💻 Sobre Mim
-- 🎓 Sou um estudante de Engenharia da Computação na UFSC fascinado por tecnologia, com grande interesse nas áreas de **Sistemas Embarcados**, **Machine Learning** e **Desenvolvimento Web**.
-- 🌱 Atualmente, estou focado em aprofundar meus conhecimentos na stack de **JavaScript (React, Node.js)**.
+- 🎓 Sou um estudante de Engenharia da Computação na UFSC, fascinado por tecnologia, com grande interesse nas áreas de **Sistemas Embarcados**, **Machine Learning** e **Desenvolvimento Web**.
+- 🌱 Atualmente, estou focado em aprofundar meus conhecimentos na stack de **JavaScript (React, Node.js)** e desenvolver projetos com **ESP32**.
 - 🚀 Busco ativamente por oportunidades e projetos onde eu possa aprender, colaborar e aplicar minhas habilidades de resolução de problemas.
 
 ---
