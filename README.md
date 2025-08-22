@@ -1,10 +1,9 @@
 # 👋 Olá, eu sou o Felipe Luan Schmitt!
 
 ### 👨‍💻 Sobre Mim
-- 🎓 Cursando **Engenharia da Computação** na Universidade Federal de Santa Catarina (UFSC).
-- 💡 Apaixonado por transformar ideias em software funcional e resolver problemas complexos com tecnologia.
-- 🌱 Atualmente estudando a stack de **JavaScript (React, Node.js)** e aprofundando meus conhecimentos em **Python para Ciência de Dados**.
-- 🚀 Buscando minha primeira oportunidade em um projeto de extensão ou como desenvolvedor freelancer.
+- 🎓 Sou um estudante de Engenharia da Computação na UFSC fascinado por tecnologia, com grande interesse nas áreas de **Sistemas Embarcados**, **Machine Learning** e **Desenvolvimento Web**.
+- 🌱 Atualmente, estou focado em aprofundar meus conhecimentos na stack de **JavaScript (React, Node.js)**.
+- 🚀 Busco ativamente por oportunidades e projetos onde eu possa aprender, colaborar e aplicar minhas habilidades de resolução de problemas.
 
 ---
 
@@ -12,7 +11,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,qt,python,js,html,css,php,nodejs,express,mysql,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=cpp,qt,js,html,css,php,nodejs,express,mysql,mongodb,git,github" />
   </a>
 </p>
 
