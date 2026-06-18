@@ -60,6 +60,20 @@
       <p><b>Technologies:</b> Python, FastAPI, Computer Vision, Docker, Azure</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">ECU with PIC16F877A</h3>
+      <p align="center">
+        <a href="https://github.com/felipeschmitt04/ecu-pic16f877a">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ECU with PIC16F877A repository" />
+        </a>
+      </p>
+      <p>
+        An academic embedded systems project that simulates a basic electronic control unit for a combustion engine. It includes ADC sensor acquisition, fuel injection maps, timer/interrupt-driven control, actuator outputs, LCD feedback, Proteus simulation, and KiCad PCB design.
+      </p>
+      <p><b>Technologies:</b> C, PIC16F877A, MPLAB X/XC8, Proteus, KiCad</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">CircuitSim</h3>
       <p align="center">
         <a href="https://github.com/felipeschmitt04/circuitsim">
@@ -71,8 +85,6 @@
       </p>
       <p><b>Technologies:</b> C++, Qt, A*, Object-Oriented Programming</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Digital Hardware & HDL</h3>
       <p align="center">
@@ -85,6 +97,8 @@
       </p>
       <p><b>Technologies:</b> VHDL, Digital Logic, FPGA, Simulation</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Hospitality Management System</h3>
       <p align="center">
@@ -94,6 +108,18 @@
         My first commercial full-stack application, developed and delivered to a real client to support daily inn operations, reservations, and accommodation management.
       </p>
       <p><b>Technologies:</b> PHP, MySQL, JavaScript, HTML, CSS, Bootstrap</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">More Projects</h3>
+      <p align="center">
+        <a href="https://github.com/felipeschmitt04?tab=repositories">
+          <img src="https://img.shields.io/badge/Browse_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" />
+        </a>
+      </p>
+      <p>
+        Additional academic and personal projects covering embedded systems, digital logic, web development, computer vision, and software engineering fundamentals.
+      </p>
+      <p><b>Interests:</b> AI, Embedded Systems, Computer Vision, Cloud, Digital Hardware</p>
     </td>
   </tr>
 </table>
