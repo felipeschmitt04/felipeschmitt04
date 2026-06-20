@@ -20,7 +20,7 @@
 
 ## About Me
 
-* 🎓 Computer Engineering student at the **Federal University of Santa Catarina (UFSC)**.
+* 🎓 **Computer Engineering** student at the **Federal University of Santa Catarina (UFSC)**.
 * 💻 Completed an **integrated technical high school program in Informatics** at **IFFar - Campus Santo Augusto**.
 * 🔬 Undergraduate researcher at **Visia Lab**, working with **Artificial Intelligence**, **Computer Vision**, human motion analysis, and intelligent systems.
 * 🧠 Currently developing solutions involving **deep learning**, **pose estimation**, **human action recognition**, and **gait analysis**.
